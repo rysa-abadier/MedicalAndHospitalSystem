@@ -1,0 +1,62 @@
+[
+    {
+        "appt_id": "A0001",
+        "patient_id": "P0001",
+        "doctor": "Cedric Palapuz",
+        "date": "2025-04-09",
+        "time": "12:00",
+        "reason": "Feeling unwell",
+        "status": "Completed",
+        "created_at": "2025-02-04 9:30:00"
+    },
+    {
+        "appt_id": "A0002",
+        "patient_id": "P0004",
+        "doctor": "Cedric Palapuz",
+        "date": "April 10, 2025",
+        "time": "11:30",
+        "reason": "Check-up",
+        "status": "Cancelled",
+        "created_at": "2025-04-09 09:39:33"
+    },
+    {
+        "appt_id": "A0003",
+        "patient_id": "P0006",
+        "doctor": "Cedric Palapuz",
+        "date": "April 10, 2025",
+        "time": "11:30",
+        "reason": "Check-up",
+        "status": "Pending",
+        "created_at": "2025-04-09 10:05:05"
+    },
+    {
+        "appt_id": "A0004",
+        "patient_id": "P0007",
+        "doctor": "Cedric Palapuz",
+        "date": "2025-09-10",
+        "time": "13:30",
+        "reason": "Check-up",
+        "status": "Cancelled",
+        "created_at": "2025-04-09 10:08:18"
+    },
+    {
+        "appt_id": "A0005",
+        "patient_id": "P0008",
+        "doctor": "Cedric Palapuz",
+        "date": "2025-09-11",
+        "time": "13:30",
+        "reason": "Check-up",
+        "status": "Confirmed",
+        "created_at": "2025-04-09 10:12:40"
+    },
+    {
+        "appt_id": "A0006",
+        "patient_id": "P0001",
+        "doctor": "Cedric Palapuz",
+        "date": "2025-04-15",
+        "time": "11:30",
+        "reason": "Check-up",
+        "status": "Cancelled",
+        "created_at": "2025-04-09 10:15:18"
+    }
+]

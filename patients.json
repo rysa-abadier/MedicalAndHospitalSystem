@@ -1,0 +1,94 @@
+[
+    {
+        "patient_id": "P0001",
+        "medical_history": "Hypertension, Allergy to penicillin",
+        "doctor_notes": "Needs routine blood pressure monitoring.",
+        "prescriptions": "Amlodipine",
+        "appointments": [
+            "A0001",
+            "A0006"
+        ],
+        "allergies": "Allergies",
+        "current_medications": "Medication"
+    },
+    {
+        "patient_id": "P0002",
+        "appointments": [],
+        "medical_history": "N/A",
+        "allergies": "Seafood",
+        "current_medications": "None",
+        "doctor_notes": "",
+        "prescriptions": []
+    },
+    {
+        "patient_id": "P0003",
+        "appointments": [],
+        "medical_history": "Asthma",
+        "allergies": "Seafood, nuts",
+        "current_medications": "None",
+        "doctor_notes": "",
+        "prescriptions": "Medicine"
+    },
+    {
+        "patient_id": "P0004",
+        "appointments": [
+            "A0002"
+        ],
+        "medical_history": "N/A",
+        "allergies": "Seafood, nuts",
+        "current_medications": "None",
+        "doctor_notes": "",
+        "prescriptions": []
+    },
+    {
+        "patient_id": "P0005",
+        "appointments": [],
+        "medical_history": "Medical History",
+        "allergies": "Allergies",
+        "current_medications": "Medication",
+        "doctor_notes": "",
+        "prescriptions": []
+    },
+    {
+        "patient_id": "P0006",
+        "appointments": [
+            "A0003"
+        ],
+        "medical_history": "Medical history",
+        "allergies": "Allergies",
+        "current_medications": "Medication",
+        "doctor_notes": "",
+        "prescriptions": []
+    },
+    {
+        "patient_id": "P0007",
+        "appointments": [
+            "A0004"
+        ],
+        "medical_history": "Medical history",
+        "allergies": "Allergies",
+        "current_medications": "Medication",
+        "doctor_notes": "",
+        "prescriptions": "Medicine"
+    },
+    {
+        "patient_id": "P0008",
+        "appointments": [
+            "A0005"
+        ],
+        "medical_history": "Medical History",
+        "allergies": "Allergies",
+        "current_medications": "Medication",
+        "doctor_notes": "",
+        "prescriptions": []
+    },
+    {
+        "patient_id": "P0009",
+        "appointments": [],
+        "medical_history": "Medical History",
+        "allergies": "Allergies",
+        "current_medications": "Medication",
+        "doctor_notes": "",
+        "prescriptions": "Bioflu"
+    }
+]
